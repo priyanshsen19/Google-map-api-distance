@@ -27,6 +27,7 @@ body {
 }
 .jumbotron p{
   text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
+  font-size:1.5em;
 }
 
 .jumbotron h1,
