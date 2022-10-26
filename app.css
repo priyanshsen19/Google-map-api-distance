@@ -32,7 +32,7 @@ body {
 .jumbotron h1,
 .jumbotron p {
   text-align: center;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 /*map*/
@@ -51,7 +51,7 @@ body {
   text-align: center;
   font-size: 1.5em;
   color: black;
-  margin: 8px auto;
+  margin: 10px auto;
 }
 
 #mode {
@@ -65,7 +65,8 @@ body {
   }
   .new{
     font-family: Verdana, sans-serif;
-    width: 80%;
+    width: 90%;
+    margin:5px auto;
   }
   .jumbotron p{
   text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
